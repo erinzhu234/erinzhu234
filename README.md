@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Zhixuan (Erin) Zhu 👋
 
-<!--
-**erinzhu234/erinzhu234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student at UCLA passionate about building meaningful software that blends creativity and technology.
 
-Here are some ideas to get you started:
+## Projects
+- [3D Racing Game](https://github.com/erinzhu234/CS174A-FinalProject) - Built using JavaScript/WebGL, collision detection, dynamic camera views.
+- [HTTP Web Server] - Implemented a basic HTTP server in C++ on Google Cloud.
+- [Mini Rogue-like Game] - Built on FPGA board with Verilog, handling joystick input and game states.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+C++ | Python | JavaScript | React | Verilog | Git | Google Cloud
+
+[View my resume](link) | [LinkedIn](link)
