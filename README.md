@@ -10,4 +10,4 @@ I'm a Master's student at UCLA passionate about building meaningful software tha
 ## Skills
 C++ | Python | JavaScript | React | Verilog | Git | Google Cloud
 
-[View my resume](link) | [LinkedIn](link)
+[View my resume]([link](https://github.com/erinzhu234/erinzhu234/blob/main/Zhixuan_Zhu_resume.pdf)) | [LinkedIn](link)
