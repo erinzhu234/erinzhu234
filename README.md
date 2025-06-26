@@ -3,6 +3,7 @@
 I'm a Master's student at UCLA passionate about building meaningful software that blends creativity and technology.
 
 ## Projects
+- [Doctor Simulator](https://github.com/Prof-Rosario-UCLA/team44) - Frontend built using React, backend built by Node.js and Express.js. 
 - [3D Racing Game](https://github.com/erinzhu234/CS174A-FinalProject) - Built using JavaScript/WebGL, collision detection, dynamic camera views.
 - [HTTP Web Server] - Implemented a basic HTTP server in C++ on Google Cloud.
 - [Mini Rogue-like Game] - Built on FPGA board with Verilog, handling joystick input and game states.
